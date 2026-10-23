@@ -1,0 +1,2 @@
+Fatorial:
+clear; chcp 65001; gcc.exe fatorial.c -o fatorial.exe; .\fatorial.exe;
